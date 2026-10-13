@@ -33,7 +33,7 @@ Full-page screenshots of all 6 pages at 390, 768 and 1440 (18 captures, scrolled
 | Exactly one `<h1>` | 6/6 pages |
 | Every `<img>` has alt, width, height | 66/66 |
 | Titles <= 60 chars / descriptions <= 155 chars | 6/6 |
-| Canonical, og:url, og:image, JSON-LD, sitemap, robots on https://locs-myth-natural-essence.netlify.app/ | yes |
+| Canonical, og:url, og:image, JSON-LD, sitemap, robots on https://locs-myth-natural-essence-demo.netlify.app/ | yes |
 | Every Booksy link is the exact booking URL; every "Book" CTA goes to Booksy | 52/52 |
 | Stylesheets versioned `?v=20261012a` on every page incl. 404 | yes |
 | Stable-scrolling block is the last rule in site.css; no `overflow-x: clip` on html/body/main | yes |

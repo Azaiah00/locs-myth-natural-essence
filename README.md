@@ -4,7 +4,7 @@ A finished spec website by Couture House Co. for **Locs Myth at Natural Essence*
 
 Concept: **"Pressed in Copper."** Couture House's embossed copper line-art series (women with locs, botanicals, loc stages, a loctician's hands) carries the brand, extended and animated with Kie.ai. Her real photos appear as "the work," framed like prints on cocoa paper. Every booking button goes to her live Booksy page.
 
-- Live preview (Netlify): https://locs-myth-natural-essence.netlify.app/
+- Live preview (Netlify): https://locs-myth-natural-essence-demo.netlify.app/
 - Booking: https://booksy.com/en-us/557302_locs-myth-at-natural-essence_hair-salon_103721_long-beach
 - Proposed domain: `locsmyth.com` (check availability; see LAUNCH-NOTES.md)
 
@@ -31,7 +31,7 @@ Then open http://localhost:8080/. (Double-clicking `index.html` also works; font
 ## Deploy on Netlify
 1. Push this folder to a new GitHub repo.
 2. In Netlify: Add new site > Import from Git > pick the repo. Build command: none. Publish directory: `.`
-3. Name the site `locs-myth-natural-essence` so the URL matches the canonical tags, or update every `https://locs-myth-natural-essence.netlify.app/` reference (canonical, og:url, og:image, JSON-LD, sitemap.xml, robots.txt, llms.txt) to the real URL.
+3. Name the site `locs-myth-natural-essence` so the URL matches the canonical tags, or update every `https://locs-myth-natural-essence-demo.netlify.app/` reference (canonical, og:url, og:image, JSON-LD, sitemap.xml, robots.txt, llms.txt) to the real URL.
 4. Forms: Netlify detects the `questions` form on deploy. Turn on form notifications (Site settings > Forms) to email the owner.
 5. When a custom domain is added, update the same absolute URLs.
 

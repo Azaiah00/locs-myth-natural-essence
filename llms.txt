@@ -2,7 +2,7 @@
 
 > Natural hair salon focused on locs in the Bixby Knolls neighborhood of Long Beach, California. Run by Danyette Thomas. Consultations, loc installations (traditional, micro locs, Sisterlock installation), loc extensions, interlocking and palm-roll maintenance, reconstruction and treatments, loc styles and color. By appointment; book on Booksy.
 
-Website: https://locs-myth-natural-essence.netlify.app/
+Website: https://locs-myth-natural-essence-demo.netlify.app/
 Also styled: Locs~Myth at Natural Essence; handle @locsmyth
 
 ## Contact and location
@@ -12,7 +12,7 @@ Also styled: Locs~Myth at Natural Essence; handle @locsmyth
 - Map: https://www.google.com/maps/search/?api=1&query=Locs+Myth+at+Natural+Essence%2C+4142+N+Business+St%2C+Long+Beach%2C+CA+90807
 - Instagram: https://www.instagram.com/locsmyth/
 - Facebook: https://www.facebook.com/Locsmyth
-- Questions form: https://locs-myth-natural-essence.netlify.app/visit.html#questions
+- Questions form: https://locs-myth-natural-essence-demo.netlify.app/visit.html#questions
 
 ## Hours
 By appointment. Live availability is on the Booksy calendar. Call (562) 988-5787 with questions.
@@ -71,8 +71,8 @@ By appointment. Live availability is on the Booksy calendar. Call (562) 988-5787
 - Where is the salon? 4142 N Business St, Long Beach, CA 90807, in Bixby Knolls.
 
 ## Pages
-- Home: https://locs-myth-natural-essence.netlify.app/
-- Services and prices: https://locs-myth-natural-essence.netlify.app/services.html
-- The loc journey (stages, install day, care, myths): https://locs-myth-natural-essence.netlify.app/journey.html
-- Gallery: https://locs-myth-natural-essence.netlify.app/gallery.html
-- Visit and questions: https://locs-myth-natural-essence.netlify.app/visit.html
+- Home: https://locs-myth-natural-essence-demo.netlify.app/
+- Services and prices: https://locs-myth-natural-essence-demo.netlify.app/services.html
+- The loc journey (stages, install day, care, myths): https://locs-myth-natural-essence-demo.netlify.app/journey.html
+- Gallery: https://locs-myth-natural-essence-demo.netlify.app/gallery.html
+- Visit and questions: https://locs-myth-natural-essence-demo.netlify.app/visit.html

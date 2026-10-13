@@ -27,4 +27,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://locs-myth-natural-essence.netlify.app/sitemap.xml
+Sitemap: https://locs-myth-natural-essence-demo.netlify.app/sitemap.xml

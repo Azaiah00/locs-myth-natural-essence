@@ -33,7 +33,7 @@ The "Questions before you book" form on `visit.html` is a Netlify Form (`questio
 
 ## Domain
 - Proposed: **locsmyth.com** (matches @locsmyth and facebook.com/Locsmyth). Check availability; fallbacks: locsmythlb.com, locsmythbixby.com.
-- Until a domain is bought, every canonical, og:url, og:image, JSON-LD, sitemap, robots and llms.txt URL points to https://locs-myth-natural-essence.netlify.app/. If the Netlify name differs, replace it everywhere.
+- Until a domain is bought, every canonical, og:url, og:image, JSON-LD, sitemap, robots and llms.txt URL points to https://locs-myth-natural-essence-demo.netlify.app/. If the Netlify name differs, replace it everywhere.
 
 ## Pitch points (from research)
 - Google listing is unclaimed and shows no website.
